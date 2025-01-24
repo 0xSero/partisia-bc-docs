@@ -4,9 +4,9 @@ ZK-Rust is the main tool for writing Zero-Knowledge Computations for Partisia Bl
 
 Further reading:
 
-* [Zero-knowledge Language Reference](https://partisiablockchain.gitlab.io/documentation/smart-contracts/zk-smart-contracts/zk-rust-reference.html)
+* [Zero-knowledge Language Reference](zk-rust-reference.md)
 * Zero-knowledge Contract FAQ
-* [Zero-knowledge Language Feature Checklist](https://partisiablockchain.gitlab.io/documentation/smart-contracts/zk-smart-contracts/zk-language-features.html)
+* [Zero-knowledge Language Feature Checklist](zk-rust-language-features.md)
 
 ### Concepts <a href="#concepts" id="concepts"></a>
 
