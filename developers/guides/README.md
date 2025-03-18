@@ -1,0 +1,13 @@
+# Guides
+
+## Guides
+
+Welcome to the Partisia Blockchain Guides section. Here you'll find comprehensive resources that walk you through various aspects of the Partisia ecosystem. Whether you're looking to build smart contracts, implement privacy-preserving solutions, or bridge assets across blockchains, these guides will help you navigate your development journey.
+
+***
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Smart Contracts</strong></td><td>Learn how to write, deploy, and test smart contracts.</td><td><a href="../../.gitbook/assets/Smart-Contracts-1.jpg">Smart-Contracts-1.jpg</a></td><td><a href="smart-contracts/">smart-contracts</a></td></tr><tr><td><strong>ZK Contracts</strong></td><td>Master privacy-preserving computations.</td><td><a href="../../.gitbook/assets/1_bXWR05L1Tq8BrhEQwhyoXg.png">1_bXWR05L1Tq8BrhEQwhyoXg.png</a></td><td><a href="zk-smart-contracts/">zk-smart-contracts</a></td></tr><tr><td><strong>BYOC</strong></td><td>Discover how to integrate external cryptocurrencies.</td><td><a href="../../.gitbook/assets/crypto.jpg">crypto.jpg</a></td><td><a href="byoc/">byoc</a></td></tr><tr><td><strong>Deployments</strong></td><td>Step-by-step instructions for deploying apps.</td><td><a href="../../.gitbook/assets/deploy.webp">deploy.webp</a></td><td><a href="smart-contracts/compile-and-deploy-contracts.md">compile-and-deploy-contracts.md</a></td></tr><tr><td><strong>Dev Tools</strong></td><td>Explore our tools and utilities</td><td><a href="../../.gitbook/assets/hand-drawn-flat-design-api-illustration_23-2149365021.png">hand-drawn-flat-design-api-illustration_23-2149365021.png</a></td><td><a href="../dev-tools/">dev-tools</a></td></tr><tr><td><strong>L2 Solutions</strong></td><td>Implement Partisia as a second-layer solution.</td><td><a href="../../.gitbook/assets/6568b7e16db9c43b63fabb45_layer-two.webp">6568b7e16db9c43b63fabb45_layer-two.webp</a></td><td><a href="partisia-as-an-l2/">partisia-as-an-l2</a></td></tr></tbody></table>
+
+Each guide section provides conceptual explanations, practical examples, and troubleshooting tips to help you build successful applications on Partisia Blockchain. Our guides are designed to support both beginners and experienced developers, with clear progression paths from fundamental concepts to advanced techniques.
+
+Whether you're creating your first smart contract or implementing sophisticated zero-knowledge proofs, these guides will provide the knowledge and resources you need to succeed with Partisia Blockchain.

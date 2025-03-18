@@ -18,7 +18,7 @@ Includes: wBTC, ETH, BNB, POL (formerly MATIC) USDC, USDT Note: Currently only
 
 
 1. 51% APR
-2. [Metamask Snap Available](../developers/integrations/partisia-metamask-snap.md)
+2. [Metamask Snap Available](../developers/guides/integrations/partisia-metamask-snap.md)
 3. Bridge Available from EVM&#x20;
 
 ### Get MPC
