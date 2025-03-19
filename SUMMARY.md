@@ -10,6 +10,7 @@
 
 * [Getting Started](developers/getting-started/README.md)
   * [Introduction](developers/getting-started/introduction.md)
+  * [Setting up your Environment](developers/getting-started/setting-up-your-environment.md)
   * [Quick Start](developers/getting-started/quick-start.md)
   * [Web-app](developers/getting-started/web-app.md)
   * [Key Concepts](developers/getting-started/key-concepts.md)
