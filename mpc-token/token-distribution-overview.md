@@ -26,7 +26,31 @@ The token unlocking on mainnet comprises tokens allocated and unlocked within th
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 The sales and team pool comprises 750 million $MPC tokens in total. These tokens are dedicated to fundraising efforts and team members. The presale and team allocation and unlock for these tokens follow the tokenomics schedule below where the majority of tokens unlock over the course of four years. By the end of July 2024, the total allocation for this category is approximately 513.5 million $MPC tokens, with around 125.5 million $MPC unlocked by the end of July 2024 (Q4).\
+\
 
+
+### Token Distribution Chart
+
+The MPC token allocation is distributed across several categories to ensure a balanced ecosystem:
+
+| Token Pool             | Percentage | Amount (MPC) | Unlocking Schedule                         |
+| ---------------------- | ---------- | ------------ | ------------------------------------------ |
+| Ecosystem              | 35%        | 35,000,000   | 7-year linear vesting after 1-year cliff   |
+| Team & Advisors        | 20%        | 20,000,000   | 3-year linear vesting after 1-year cliff   |
+| Public & Private Sales | 20%        | 20,000,000   | Varies by sale type, details in prospectus |
+| Reserve                | 15%        | 15,000,000   | Subject to governance decisions            |
+| Initial DEX Liquidity  | 10%        | 10,000,000   | Locked in LP for minimum 3 years           |
+
+#### Unlocking Timeline
+
+The following chart illustrates the token unlocking schedule over time:
+
+This carefully designed distribution ensures:
+
+1. Long-term project sustainability through the ecosystem fund
+2. Team alignment with project success via extended vesting
+3. Market stability through measured token release
+4. Adequate liquidity for trading and ecosystem participation
 
 ### Ecosystem tokens unlocking schedule
 

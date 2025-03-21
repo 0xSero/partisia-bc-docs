@@ -1,6 +1,22 @@
-# Tooling
+# Dev Tools
 
-This article introduces tools designed to help developers working with smart contracts on the blockchain. These tools offer a range of capabilities, from testing smart contracts to facilitating command-line interactions with the blockchain, and even integrating the blockchain with your own applications.
+This article introduces tools designed to help developers working with smart contracts on the blockchain. These tools offer a range of capabilities, from testing smart contracts to facilitating command-line interactions with the blockchain, and even integrating the blockchain with your own applications.\
+\
+**Development Workflow Integration**
+
+The following flowchart illustrates how Partisia Blockchain's various development tools integrate into the typical development workflow:
+
+#### Tool Selection Guide
+
+| Development Phase         | Recommended Tools                                                                | Purpose                                 |
+| ------------------------- | -------------------------------------------------------------------------------- | --------------------------------------- |
+| **Contract Development**  | <p>- Rust/Cargo<br>- VS Code + rust-analyzer<br>- <code>cargo pbc</code> CLI</p> | Write and compile smart contracts       |
+| **Local Testing**         | <p>- <code>cargo pbc</code> test commands<br>- JUnit test framework</p>          | Verify contract logic and functionality |
+| **Deployment**            | <p>- <code>cargo pbc transaction deploy</code><br>- Browser interface</p>        | Deploy contracts to testnet/mainnet     |
+| **Frontend Integration**  | <p>- ABI codegen<br>- TypeScript SDK<br>- React components</p>                   | Build user interfaces for contracts     |
+| **Backend Integration**   | <p>- Java SDK<br>- ABI client</p>                                                | Create server-side integration          |
+| **Wallet Integration**    | <p>- Wallet SDK<br>- MetaMask Snap</p>                                           | Add authentication and transactions     |
+| **Monitoring & Analysis** | <p>- Browser explorer<br>- REST API</p>                                          | Track contract activity and state       |
 
 ### Partisia Blockchain browser <a href="#partisia-blockchain-browser" id="partisia-blockchain-browser"></a>
 

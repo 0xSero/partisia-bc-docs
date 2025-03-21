@@ -71,6 +71,25 @@ For detailed instructions on using the CLI's various commands and capabilities, 
 * CLI Commands Reference: Comprehensive documentation of all CLI commands
 * CLI Developer Guide: Practical guide with common workflows and examples
 
+### CLI Command Quick Reference
+
+This quick reference table helps you find commonly used commands for different tasks.
+
+| Task                          | Command                                                       | Example                                             |
+| ----------------------------- | ------------------------------------------------------------- | --------------------------------------------------- |
+| **Build Contract**            | `cargo pbc build [--release]`                                 | `cargo pbc build --release`                         |
+| **Deploy Contract**           | `cargo pbc transaction deploy <wasm_file> [params...]`        | `cargo pbc transaction deploy counter.wasm 0`       |
+| **Call Contract Action**      | `cargo pbc transaction action <address> <action> [params...]` | `cargo pbc transaction action 01abc... increment`   |
+| **Create Account**            | `cargo pbc account create [--file <path>]`                    | `cargo pbc account create --file mykey.pk`          |
+| **Get Account Info**          | `cargo pbc account show <address>`                            | `cargo pbc account show 01abc...`                   |
+| **Get Testnet Gas**           | `cargo pbc account mintgas <address>`                         | `cargo pbc account mintgas 01abc...`                |
+| **View Contract State**       | `cargo pbc contract show <address> --state`                   | `cargo pbc contract show 01abc... --state`          |
+| **Generate Client Code**      | `cargo pbc abi codegen [--ts/--java] <abi_file> <output>`     | `cargo pbc abi codegen --ts counter.abi counter.ts` |
+| **View Transaction**          | `cargo pbc transaction show <tx_hash>`                        | `cargo pbc transaction show 0xabc...`               |
+| **View Block**                | `cargo pbc block show <block_number/hash>`                    | `cargo pbc block show 123456`                       |
+| **Configure Default Network** | `cargo pbc config net <network> [--default]`                  | `cargo pbc config net testnet --default`            |
+| **Set Default Private Key**   | `cargo pbc config privatekey <path>`                          | `cargo pbc config privatekey ./mykey.pk`            |
+
 ### Next Steps
 
 Ready to dive deeper? The CLI Commands Reference provides detailed documentation for each command, while the Developer Guide walks through common workflows with practical examples.

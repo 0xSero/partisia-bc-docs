@@ -92,7 +92,9 @@ brew install openssl
 
 While you can use any code editor, we recommend the following options for the best development experience:
 
-#### Visual Studio Code (Recommended)
+### Setting Up Your Code Editor
+
+**Visual Studio Code (Recommended)**
 
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/)
 2. Install these recommended extensions:
@@ -100,6 +102,28 @@ While you can use any code editor, we recommend the following options for the be
    * **WebAssembly**: Support for WebAssembly development
    * **Better TOML**: For working with Cargo.toml files
    * **GitLens**: Enhanced Git capabilities (optional)
+
+
+
+**Partisia DApp Playground (For Quick Start)**
+
+For developers who want to skip local environment setup, we offer the [Partisia DApp Playground](https://github.com/partisiablockchain/dapp-playground) - a pre-configured development environment with all necessary tools and dependencies already installed. This option allows you to:\
+
+
+* Start coding immediately without installation steps
+* Experiment with Partisia Blockchain features in a sandbox environment
+* Access example templates and boilerplate code
+* Test your applications in a controlled environment
+
+To use the DApp Playground:
+
+```bash
+# Clone the repository
+git clone https://github.com/partisiablockchain/dapp-playground.git
+cd dapp-playground
+
+# Follow the setup instructions in the README
+```
 
 #### Other Options
 

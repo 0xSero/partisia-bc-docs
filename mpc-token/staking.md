@@ -52,3 +52,33 @@ Use the same wallet to connect to our explorer, select the delegations nav optio
 
 
 {% embed url="https://www.youtube.com/watch?feature=youtu.be&v=XlesysJ3BcA" %}
+
+### Recap:
+
+#### Staking Process Overview
+
+#### Step-by-Step Staking Walkthrough
+
+**1. Connect your wallet to the Partisia Browser**
+
+Connect your wallet by clicking the account icon in the upper right corner of the [Partisia Blockchain Browser](https://browser.partisiablockchain.com).
+
+**2. Navigate to the Node Operators section**
+
+From the menu, select "Node Operators" to view the list of validators.
+
+**3. Select a node operator to delegate to**
+
+Browse the list of node operators and select one based on performance, commission rate, and total stake.
+
+**4. Enter delegation amount**
+
+Enter the amount of MPC tokens you wish to delegate. Ensure you leave some tokens for transaction fees.
+
+**5. Confirm delegation transaction**
+
+Review the delegation details and confirm the transaction in your wallet.
+
+**6. View and manage your delegations**
+
+After successful delegation, you can view and manage your delegations from your account page.
