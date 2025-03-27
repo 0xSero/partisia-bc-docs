@@ -90,7 +90,7 @@ For deployment failures:
    * Check state serialization efficiency
 2. **Binary format issues?**
    * Verify [WASM/ZKWA](compile-and-deploy-contracts.md) files are properly generated
-   * Check [ABI compatibility](../../dev-tools/abi-parser-typescript/parsing-abis-and-reading-contract-data.md)
+   * Check [ABI compatibility](../../dev-tools/abi-parser-ts/parsing-abis-and-reading-contract-data.md)
 3. **Permission issues?**
    * Confirm account has proper permissions
 
